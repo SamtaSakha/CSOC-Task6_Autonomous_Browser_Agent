@@ -106,7 +106,7 @@ python main.py
 
 ## Screenshot
 
-![Autonomous Browser Agent]()
+![Autonomous Browser Agent](https://github.com/SamtaSakha/CSOC-Task6_Autonomous_Browser_Agent/blob/main/Screenshot%202026-07-08%20234050.png)
 ```
 
 ---
